@@ -1,0 +1,118 @@
+body{
+    font-family: "Lora", serif;
+    background-color: #f2efed;
+
+}
+.colordefondo{
+    background-color: rgb(106, 153, 137);
+}
+article{
+    cursor: pointer;
+}
+article:hover{
+    box-shadow: 0 0.1rem 0.4rem rgba(0,0,0,0.5);
+}
+.color-color{
+    color: rgb(255, 255, 255);
+}
+label{
+    color: #f2efed;
+}
+h5{
+    color: aliceblue;
+}
+
+.carousel{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.carousel-inner img{
+    width: 100%;
+    max-height: 300px;
+}
+
+.contenedor-tarjetas{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.nav-link{
+    color: #ffffff;
+}
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
+
+#descripcion{
+    resize: none;
+} 
+footer{
+    background-color: #222;
+    padding: 4rem;
+    color: #ffffff;
+}
+footer section{
+    float: right;
+}
+h2{
+    text-align: center;
+}
+.tamaño{
+    width: 200;
+}
+
+.cursos-xpand{
+}
+
+.react-xpand{
+    background-color: #f2efed;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center
+}
+
+.react-xpand-img img{
+    width: 35rem;
+}
+
+.react-xpand-txt{
+    color: #4c4b9a;
+    margin-left: 20px;
+}
+
+li{
+    margin-top: 12px;
+    
+}
+
+.boton-js{
+    color:rgb(214, 207, 207);
+    font-size: 20px;
+    border-radius: 20 px;
+    background-color: rgb(70, 114, 114);
+    margin: 15px;
+    border: 3px solid;
+    padding: 10px 20px;
+}
+#resultado{
+    color:#f2efed; 
+    }
+
+.ract-tema.tachado{
+    text-decoration: line-through;
+}
+
+.boton-tachado{
+    color:rgb(214, 207, 207);
+    font-size: 20px;
+    border-radius: 20 px;
+    background-color: rgb(70, 114, 114);
+    margin: 15px;
+    border: 3px solid;
+    padding: 10px 20px;
+}
